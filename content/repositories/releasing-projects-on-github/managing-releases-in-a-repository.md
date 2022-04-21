@@ -1,4 +1,4 @@
----
+---docs/content/get-started/quickstart/index.md
 title: Managing releases in a repository
 intro: You can create releases to bundle and deliver iterations of a project to users.
 redirect_from:
